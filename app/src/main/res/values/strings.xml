@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Whatsapp For Rabi Valdshein</string>
+    <string name="notification_listener_service">notifications service</string>
+    <string name="new_group_warning">הערה: חשוב לכתוב את שם הקבוצה במדויק, כולל אימוג\'ים אם יש! (מומלץ לעשות העתק-הדבק ישר מהוואטספ). אם שם הקבוצה לא ייכתב נכון, התוכנה לא תזהה הודעות שבאות ממנה!</string>
+    <string name="add_group_button">הוספה</string>
+</resources>
